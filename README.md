@@ -1,3 +1,7 @@
+
+![image](https://github.com/user-attachments/assets/08d4d485-be5b-41fb-ab22-a5eefdc1b251)
+
+
 Hi 👋, I'm Sarath Kumar!
 🚀 DevOps Engineer | Cloud Enthusiast | Automation Expert
 
