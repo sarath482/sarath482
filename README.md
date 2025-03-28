@@ -3,7 +3,7 @@
 
 
 Hi 👋, I'm Sarath Kumar!
-🚀 DevOps Engineer | Cloud Enthusiast | Automation Expert
+🚀 **DevOps Engineer | Cloud Enthusiast | Automation Expert**
 
 🔧 Passionate about CI/CD, Cloud Infrastructure, Automation, and Kubernetes
 
@@ -18,5 +18,7 @@ Hi 👋, I'm Sarath Kumar!
 
 💬 Let's Connect
 📫 Reach me at: rsarathkumar482@gmail.com
+
 🔗 LinkedIn: www.linkedin.com/in/sarath-kumar-r-269230205
+
 🐙 GitHub: https://github.com/sarath482
