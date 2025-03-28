@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi 👋, I'm Sarath Kumar!
+🚀 DevOps Engineer | Cloud Enthusiast | Automation Expert
 
-<!--
-**sarath482/sarath482** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Passionate about CI/CD, Cloud Infrastructure, Automation, and Kubernetes
 
-Here are some ideas to get you started:
+🌱 About Me
+💼 Currently working as a DevOps Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+☁️ Experienced in AWS | Azure | Terraform | Docker | Kubernetes | Ansible | Jenkins | Git
+
+🔥 Love solving complex infrastructure challenges and optimizing deployments
+
+💡 Always learning and exploring new DevOps tools & best practices
+
+💬 Let's Connect
+📫 Reach me at: rsarathkumar482@gmail.com
+🔗 LinkedIn: www.linkedin.com/in/sarath-kumar-r-269230205
+🐙 GitHub: https://github.com/sarath482
